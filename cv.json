@@ -40,22 +40,32 @@
     ]
   },
   {
-    "name": "Adevinta",
-    "position": "Lead Frontend Architect",
-    "url": "https://twitch.tv/midudev",
-    "startDate": "2016-06-01",
-    "endDate": "2022-09-01",
-    "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+    "name": "Hola Paraguay S.A (VOX)",
+    "position": "Linux IT and Help Desk",
+    "url": "https://www.vox.com.py/",
+    "startDate": "2015-06-01",
+    "endDate": "2016-09-01",
+    "summary": "Diseño e implementacion de Arquitectura/topología de red para mantener el control y facilitar la gestión de los dispositivos de red. Asistencia remota a los usuarios a través de VNC. Soporte Informático en General, Software, hardware, Redes. Configuracion de Servidores Linux y Centrales Telefonicas.",
     "highlights": [
       "Started the company"
     ]
   },
   {
-    "name": "Hubii",
-    "position": "Senior FrontEnd Developer",
+    "name": "Documenta S.A (PractiPago)",
+    "position": "Help Desk",
     "startDate": "2011-03-01",
     "endDate": "2016-05-01",
-    "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+    "summary": "Asistencia tecnica vía remota o in situ. Instalación de las aplicaiones de cobranzas y configuracion del las aplicaiones Necesarias. Capacitación del Usuario.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "JBS PARAGUAY S.A (Frigorifico Multinacional)",
+    "position": "Linux IT and Help Desk",
+    "startDate": "2011-03-01",
+    "endDate": "2016-05-01",
+    "summary": "Implementación de una arquitectura/topología de red para optimizar el control y la gestión de dispositivos de red. Provisión de asistencia remota a usuarios mediante VNC. Ofrecimiento de soporte informático integral, incluyendo software, hardware y redes. Configuración especializada de servidores Linux y centrales telefónicas.",
     "highlights": [
       "Started the company"
     ]
@@ -73,9 +83,9 @@
   ]
 }],
 "education": [{
-  "institution": "Universitat Oberta de Catalunya",
-  "url": "https://www.uoc.edu/portal/es/index.html",
-  "area": "Ingeniero de Software",
+  "institution": "Universidad Americana",
+  "url": "https://www.americana.edu.py/",
+  "area": "Lic en Informatica",
   "studyType": "Bachelor",
   "startDate": "2003-01-01",
   "endDate": "2009-01-01",
@@ -205,66 +215,15 @@
 }],
 "projects": [
   {
-    "name": "mars.codes",
+    "name": "pablotorres.dev",
     "isActive": true,
-    "description": "Historia interactiva con retos de programación para viajar a Marte",
+    "description": "Porfolio Realizado Enteramente en Astro. Con un archivo de .json puedes crear tu propio portfolio",
     "highlights": [
-      "Elige tu propia aventura",
-      "En desarrollo"
+      "Solo neceistas html,css y javascript.",
+      "npm, Astro",
+      "Proyecto Terminado."
     ],
-    "url": "https://mars.codes"
-  },
-  {
-    "name": "AdventJS",
-    "isActive": true,
-    "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-    "highlights": [
-      "+1 millón de visitas",
-      "Multidioma",
-      "JavaScript & TypeScript"
-    ],
-    "url": "https://adventjs.dev"
-  },
-  {
-    "name": "Codember",
-    "isActive": true,
-    "description": "Juego interactivo de programación con retos y secretos",
-    "highlights": [
-      "+2000 usuarios activos",
-      "Retos para cualquier lenguaje"
-    ],
-    "url": "https://codember.dev"
-  },
-  {
-    "name": "codi.link",
-    "isActive": true,
-    "description": "Playground de código HTML, CSS y JavaScript para compartir",
-    "highlights": [
-      "100k visitas al mes",
-      "Desarrollado por la comunidad"
-    ],
-    "url": "https://codi.link",
-    "github": "https://github.com/midudev/codi.link"
-  },
-  {
-    "name": "Pruebas Técnicas",
-    "isActive": true,
-    "description": "Lista de pruebas técnicas de empresas para practicar programación",
-    "highlights": [
-      "100% gratuito",
-      "+500 soluciones de la comunidad"
-    ],
-    "url": "https://pruebastecnicas.com",
-    "github": "https://github.com/midudev/pruebas-tecnicas"
-  },
-  {
-    "name": "miduConf",
-    "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-    "highlights": [
-      "+15k tickets repartidos",
-      "+50k espectadores en directo"
-    ],
-    "url": "https://miduconf.com"
-  }
+    "url": "https://pablotorres.dev"
+  }  
 ]
 }
