@@ -2,6 +2,14 @@
 import Section from "@/components/Section.astro"
 
 import { work } from "@cv"
+
+
+
+function formatParagraphs(text: string): string[] {
+  // Dividir el texto en párrafos cada vez que encuentre un punto seguido de un espacio
+  return text.split(/(?<=\.)\s+/);
+}
+
 ---
 
 <Section title="Experiencia laboral">
@@ -31,7 +39,13 @@ import { work } from "@cv"
                 </header>
 
                 <footer>
-                  <p>{summary}</p>
+                  <p>
+                    {
+                      formatParagraphs(summary).map((paragraph) => {
+                      return <>{paragraph}<br/></>;
+                    })
+                    }
+                  </p>
                 </footer>
               </article>
             </li>

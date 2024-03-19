@@ -1,12 +1,12 @@
 {
 "basics": {
   "name": "Luis Pablo Torres",
-  "label": "Full Stack Developer con más de 5 años de experiencia",
+  "label": "SysAdmin - Ops Infraestrucutra, Administracion en Datacenter",
   "image": "/me.webp",
   "email": "pablolpdt@gmail.com",
-  "phone": "+595 972615220",
+  "phone": "+595-972615220",
   "url": "https://pablotorres.dev",
-  "summary": "+5 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+  "summary": "Apasionado del las Tecnologias y la innovacion.He llevado a cabo varios proyectos donde he realizado el diseño e implementacion Tecnologica en sectores publicos y privados. Con tecnologia de punta y vanguardistas.",
   "location": {
     "address": "",
     "postalCode": "4321",
@@ -29,12 +29,12 @@
 },
 "work": [
   {
-    "name": "pablopy",
-    "position": "Divulgador sobre Programación Web",
-    "url": "https://twitch.tv/midudev",
-    "startDate": "2021-01-01",
-    "endDate": null,
-    "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+    "name": "Secretaria Tecnica de Planificacion (STP)",
+    "position": "Administrador de Infraestructura",
+    "url": "https://www.stp.gov.py/v1/",
+    "startDate": "2017-01-08",
+    "endDate": "2023-12-30",
+    "summary": "Administracion plataforma de virtualización (Proxmox Virtual Enviroment). Administracion de Servidores Linux(Centos, Ubuntu, Red Hat, etc). Configuracion y Puesta en Marcha de Servicios Web(Apache, Nginx, Wildfly,jboss). Administrador Firewall(pfsene, Sophos). Administrador de servidores de Correo(Zimbra,MsExchange). Adminsitracion de Servicios Web( Antivirus, Servidores de Dominio, Nextcloud, Office 365). Gestión y Monitoreo de Servidores. Integración continua, flujo de trabajo básico de CI/CD. Investigación e integración de nuevas tecnologías. Implementar aplicaciones (java, php, nodejs, RoR, js, python)",
     "highlights": [
       "Started the company"
     ]
