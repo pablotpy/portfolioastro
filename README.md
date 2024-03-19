@@ -13,6 +13,10 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </p>
 
+<p>
+Basado en el trabajo de <a href="https://github.com/midudev/minimalist-portfolio-json">midudev</a>
+
+</p>
 </div>
 
 <div align="center">
@@ -94,6 +98,5 @@ pnpm dev
 
 
 
-## 🔑 Licencia
 
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
+
