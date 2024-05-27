@@ -6,7 +6,7 @@
   "email": "pablolpdt@gmail.com",
   "phone": "+595-972615220",
   "url": "https://pablotorres.dev",
-  "summary": "Apasionado del las Tecnologias y la innovacion.He llevado a cabo varios proyectos donde he realizado el diseño e implementacion Tecnologica en sectores publicos y privados. Con tecnologia de punta y vanguardistas.",
+  "summary": "Apasionado de las Tecnologias y la innovacion. He llevado a cabo varios proyectos donde he realizado el diseño e implementacion Tecnologica en sectores publicos y privados. Con tecnologia de punta y vanguardistas.",
   "location": {
     "address": "",
     "postalCode": "4321",
@@ -87,8 +87,8 @@
   "url": "https://www.americana.edu.py/",
   "area": "Lic en Informatica",
   "studyType": "Bachelor",
-  "startDate": "2003-01-01",
-  "endDate": "2009-01-01",
+  "startDate": "2022-06-01",
+  "endDate": null,
   "score": "4.0",
   "courses": [
     "DB1101 - Basic SQL"
@@ -223,7 +223,7 @@
       "npm, Astro",
       "Proyecto Terminado."
     ],
-    "url": "https://pablotorres.dev",
+    "url": "https://github.com/pablotpy/portfolioastro",
     "github": "https://github.com/pablotpy/portfolioastro"
   }  
 ]
