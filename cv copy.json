@@ -1,12 +1,12 @@
 {
 "basics": {
   "name": "Luis Pablo Torres",
-  "label": "Front-End Developer - DevOps",
+  "label": "SysAdmin - Ops Infraestrucutra, Administracion en Datacenter",
   "image": "/me.webp",
   "email": "pablolpdt@gmail.com",
   "phone": "+595-972615220",
   "url": "https://pablotorres.dev",
-  "summary": "Desarrollador Frontend con experiencia en la creación y mejora de aplicaciones web utilizando Angular, Html, CSS y JavaScript destacando en el diseño de componentes dinámicos y responsivos e integración de servicios RESTful. Experiencia previa en administración de infraestructura IT, Servidores Linux y virtualización. Comprometido con asegurar experiencias de usuario óptimas y el cumplimiento de altos estándares de calidad y seguridad. Actualmente cursando una licenciatura en Informática en la Universidad Americana.",
+  "summary": "Apasionado de las Tecnologias y la innovacion. He llevado a cabo varios proyectos donde he realizado el diseño e implementacion Tecnologica en sectores publicos y privados. Con tecnologia de punta y vanguardistas.",
   "location": {
     "address": "",
     "postalCode": "4321",
@@ -28,21 +28,8 @@
   ]
 },
 "work": [
-
   {
-    "name": "Ministerio de Economia y Finanzas (M.E.F)",
-    "position": "Desarrolador Front-End",
-    "position2": "Aplicacion Web CONAJZAR",
-    "url": "https://www.mef.gov.py/",
-    "startDate": "2024-01-02",
-    "endDate": null,
-    "summary": "Desarrollo y mejora de aplicacion web en Angular,Html,CSS,JavaScript. Tecnologia de Control de Versiones como Git, GitHub, GitLab. Diseño de componentes dinámicos y responsivos. Integracion de servicios RESTful para facilitar la comunicación entre frontend y backend. CI/CD Integración y despliegue continuos utlizando Jenkins. Compromiso con una experiencia de usuario óptima.",
-    "highlights": [
-      "Started the company"
-    ]
-  },
-  {
-    "name": "Secretaria Tecnica de Planificacion (S.T.P)",
+    "name": "Secretaria Tecnica de Planificacion (STP)",
     "position": "Administrador de Infraestructura",
     "url": "https://www.stp.gov.py/v1/",
     "startDate": "2017-01-08",
@@ -51,8 +38,38 @@
     "highlights": [
       "Started the company"
     ]
-  } 
-
+  },
+  {
+    "name": "Hola Paraguay S.A (VOX)",
+    "position": "Linux IT and Help Desk",
+    "url": "https://www.vox.com.py/",
+    "startDate": "2015-06-01",
+    "endDate": "2016-09-01",
+    "summary": "Diseño e implementacion de Arquitectura/topología de red para mantener el control y facilitar la gestión de los dispositivos de red. Asistencia remota a los usuarios a través de VNC. Soporte Informático en General, Software, hardware, Redes. Configuracion de Servidores Linux y Centrales Telefonicas.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Documenta S.A (PractiPago)",
+    "position": "Help Desk",
+    "startDate": "2011-03-01",
+    "endDate": "2016-05-01",
+    "summary": "Asistencia tecnica vía remota o in situ. Instalación de las aplicaiones de cobranzas y configuracion del las aplicaiones Necesarias. Capacitación del Usuario.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "JBS PARAGUAY S.A (Frigorifico Multinacional)",
+    "position": "Linux IT and Help Desk",
+    "startDate": "2011-03-01",
+    "endDate": "2016-05-01",
+    "summary": "Implementación de una arquitectura/topología de red para optimizar el control y la gestión de dispositivos de red. Provisión de asistencia remota a usuarios mediante VNC. Ofrecimiento de soporte informático integral, incluyendo software, hardware y redes. Configuración especializada de servidores Linux y centrales telefónicas.",
+    "highlights": [
+      "Started the company"
+    ]
+  }
 ],
 "volunteer": [{
   "organization": "Organization",
@@ -98,13 +115,6 @@
 }],
 "skills": [
   {
-    "name": "Angular",
-    "level": "Avanzado",
-    "keywords": [
-      "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-    ]
-  },
-  {
     "name": "HTML",
     "level": "Master",
     "keywords": [
@@ -123,6 +133,13 @@
     "level": "Master",
     "keywords": [
       "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+    ]
+  },
+  {
+    "name": "Tailwind",
+    "level": "Avanzado",
+    "keywords": [
+      "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
     ]
   },
   {
@@ -147,20 +164,6 @@
     ]
   },
   {
-    "name": "Sqlite",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend"
-    ]
-  },
-  {
-    "name": "Postgres",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend"
-    ]
-  },
-  {
     "name": "Git",
     "level": "Avanzado",
     "keywords": [
@@ -175,10 +178,17 @@
     ]
   },
   {
-    "name": "Django",
+    "name": "Next.js",
     "level": "Avanzado",
     "keywords": [
-      "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+    ]
+  },
+  {
+    "name": "React",
+    "level": "Avanzado",
+    "keywords": [
+      "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
     ]
   }
 ],
@@ -205,32 +215,16 @@
 }],
 "projects": [
   {
-    "name": "Portfolio Minimalista Astro",
+    "name": "pablotorres.dev",
     "isActive": true,
-    "description": "Realizado en Html, Css, TypeScript y Framework Astro. Consiste es que puedas cear tu Propio CV con un solo archivo JSON.",
+    "description": "Porfolio Realizado Enteramente en Astro. Con un archivo de .json puedes crear tu propio portfolio",
     "highlights": [
-      "Astro",
-      "Html",
-      "CSS", 
-      "JavaScript",
-      "npm"
+      "Solo neceistas html,css y javascript.",
+      "npm, Astro",
+      "Proyecto Terminado."
     ],
     "url": "https://github.com/pablotpy/portfolioastro",
     "github": "https://github.com/pablotpy/portfolioastro"
-  },
-  {
-    "name": "Formulario Sorteos en Django",
-    "isActive": true,
-    "description": "Formulario de Sorteo de Premios para una Empresa de vinos. Se utilizo el Framework Django, Html ,CSS, JavaScript Usando Logica de MVT de django, base de datos PotgrestSQL",
-    "highlights": [
-      "Django",
-      "Html",
-      "CSS", 
-      "JavaScript",
-      "pip"
-    ],
-    "url": "https://github.com/pablotpy/formularioLaLinda-django",
-    "github": "https://github.com/pablotpy/formularioLaLinda-django"
   }  
 ]
 }
