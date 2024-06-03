@@ -76,4 +76,24 @@ const SKILLS_ICONS: Record<string, any> = {
     gap: 4px;
     padding: 0.2rem 0.6rem;
   }
+
+  @media print {
+  * {
+    -webkit-print-color-adjust: exact; /* Para forzar la impresión de colores */
+    print-color-adjust: exact; /* Para forzar la impresión de colores */
+  }
+
+  li {
+    align-items: center;
+    background: hsl(220.9deg 84.01% 14.2% / 80%);
+    border-radius: 6px;
+    color: white;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+}
+
 </style>
