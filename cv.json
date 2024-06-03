@@ -31,12 +31,12 @@
 
   {
     "name": "Ministerio de Economia y Finanzas (M.E.F)",
-    "position": "Desarrolador Front-End",
-    "position2": "Aplicacion Web CONAJZAR",
+    "position": "DESARROLADOR FRONT-END",
+    "tarea": "Aplicacion web conajzar(Comisión Nacional de Juegos de Azar)",
     "url": "https://www.mef.gov.py/",
     "startDate": "2024-01-02",
     "endDate": null,
-    "summary": "Desarrollo y mejora de aplicacion web en Angular,Html,CSS,JavaScript. Tecnologia de Control de Versiones como Git, GitHub, GitLab. Diseño de componentes dinámicos y responsivos. Integracion de servicios RESTful para facilitar la comunicación entre frontend y backend. CI/CD Integración y despliegue continuos utlizando Jenkins. Compromiso con una experiencia de usuario óptima.",
+    "summary": "Desarrollo de software web en Angular, Utilizando tecnologias como Html,CSS y JavaScript. Control de Versiones Git, GitHub, GitLab. Diseño de componentes dinámicos y responsivos. Integracion de servicios RESTful para facilitar la comunicación entre frontend y backend. CI/CD Integración y despliegue continuos utlizando Jenkins. Compromiso con una experiencia de usuario óptima.",
     "highlights": [
       "Started the company"
     ]

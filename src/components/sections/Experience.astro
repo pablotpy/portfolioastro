@@ -16,7 +16,7 @@ function formatParagraphs(text: string): string[] {
   <ul>
     {
       work.map(
-        ({ name, startDate, endDate, position,position2, summary, highlights, url }) => {
+        ({ name, startDate, endDate, position,tarea, summary, highlights, url }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
@@ -32,8 +32,9 @@ function formatParagraphs(text: string): string[] {
                         {name}
                       </a>
                     </h3>
-                    <h4><b>{position}</b></h4>
-                    <h4><b>{position2}</b></h4>
+                    
+                    <h4><strong>{position}</strong></h4>
+                    <h4><u>{tarea}</u></h4> 
                   </div>
 
                   <time>{years}</time>
