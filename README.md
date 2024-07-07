@@ -72,7 +72,7 @@ corepack enable
 corepack prepare pnpm@latest --activate
 
 # Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
+pnpm create astro@latest
 ```
 
 ### 2. Añade tu contenido:
