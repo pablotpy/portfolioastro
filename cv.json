@@ -1,236 +1,200 @@
 {
-"basics": {
-  "name": "Luis Pablo Torres",
-  "label": "Front-End Developer - DevOps",
-  "image": "/me.webp",
-  "email": "pablolpdt@gmail.com",
-  "phone": "+595-972615220",
-  "url": "https://pablotorres.dev",
-  "summary": "Desarrollador Frontend con experiencia en la creación y mejora de aplicaciones web utilizando Angular, Html, CSS y JavaScript destacando en el diseño de componentes dinámicos y responsivos e integración de servicios RESTful. Experiencia previa en administración de infraestructura IT, Servidores Linux y virtualización. Comprometido con asegurar experiencias de usuario óptimas y el cumplimiento de altos estándares de calidad y seguridad. Actualmente cursando una licenciatura en Informática en la Universidad Americana.",
-  "location": {
-    "address": "",
-    "postalCode": "4321",
-    "city": "Mariano Roque Alonso",
-    "countryCode": "PY",
-    "region": "Paraguay"
+  "basics": {
+    "name": "Luis Pablo Torres",
+    "label": "Desarrollador Frontend | DevOps",
+    "image": "/me.webp",
+    "email": "pablolpdt@gmail.com",
+    "phone": "+595-972615220",
+    "url": "https://pablotorres.dev",
+    "summary": "Desarrollador Frontend con experiencia en DevOps, enfocado en la creación de aplicaciones web con Angular, TypeScript, HTML y CSS. Cuento con sólida experiencia en integración de APIs RESTful y automatización de despliegues (CI/CD) con Jenkins, Docker y servidores web. Mi perfil se fortalece con una base en infraestructura IT y servidores Linux, aportando una visión integral al ciclo de desarrollo. Actualmente finalizando la Licenciatura en Informática.",
+    "location": {
+      "address": "",
+      "postalCode": "4321",
+      "city": "Mariano Roque Alonso",
+      "countryCode": "PY",
+      "region": "Paraguay"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pablotpy",
+        "url": "https://linkedin.com/in/pablotpy"
+      },
+      {
+        "network": "GitHub",
+        "username": "pablotpy",
+        "url": "https://github.com/pablotpy"
+      }
+    ]
   },
-  "profiles": [
+  "work": [
     {
-      "network": "LinkedIn",
-      "username": "pablotpy",
-      "url": "https://linkedin.com/in/pablotpy"
+      "name": "Ministerio de Economía y Finanzas (M.E.F)",
+      "position": "Desarrollador Front-End",
+      "url": "https://www.mef.gov.py/",
+      "startDate": "2023-01-02",
+      "endDate": null,
+      "summary": "Responsable del desarrollo y mantenimiento evolutivo de aplicaciones web críticas utilizando Angular, HTML, CSS y JavaScript. Mi enfoque se centra en la creación de interfaces de usuario modernas y eficientes, garantizando la calidad y la coherencia del código a través de sistemas de control de versiones como Git y GitLab.",
+      "highlights": [
+        "Desarrollo de componentes dinámicos y responsivos en Angular.",
+        "Integración de servicios RESTful para una comunicación fluida entre el frontend y el backend.",
+        "Implementación de pipelines de CI/CD con Jenkins para automatizar los despliegues y asegurar la calidad del software.",
+        "Colaboración activa en equipos multidisciplinarios para definir y cumplir los objetivos del proyecto."
+      ]
     },
     {
-      "network": "GitHub",
-      "username": "pablotpy",
-      "url": "https://github.com/pablotpy"
+      "name": "Secretaría Técnica de Planificación (S.T.P)",
+      "position": "Administrador de Infraestructura",
+      "url": "https://www.stp.gov.py/v1/",
+      "startDate": "2017-01-08",
+      "endDate": "2023-12-30",
+      "summary": "Gestioné y mantuve la infraestructura tecnológica crítica de la institución, asegurando la disponibilidad, rendimiento y seguridad de los servicios. Lideré la administración de plataformas de virtualización y servidores Linux, y fui responsable de la configuración y despliegue de una amplia gama de aplicaciones y servicios web.",
+      "highlights": [
+        "Administración avanzada de la plataforma de virtualización Proxmox VE.",
+        "Gestión de servidores Linux (CentOS, Ubuntu, Red Hat) y servicios web (Apache, Nginx, WildFly).",
+        "Implementación y administración de seguridad perimetral con firewalls pfSense y Sophos.",
+        "Administración de plataformas de correo electrónico (Zimbra, MS Exchange) y servicios cloud (Office 365, Nextcloud).",
+        "Establecimiento de un flujo de trabajo básico de CI/CD para la integración y el despliegue de aplicaciones (Java, PHP, Node.js, Python)."
+      ]
     }
-  ]
-},
-"work": [
-
+  ],
+  "education": [
+    {
+      "institution": "Universidad Americana",
+      "url": "https://www.americana.edu.py/",
+      "area": "Licenciatura en Informática",
+      "studyType": "Grado Universitario",
+      "startDate": "2022-06-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "Actualmente cursando"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Frontend", "Single-Page Applications", "TypeScript", "Component-Based Architecture"
+      ]
+    },
+    {
+      "name": "JavaScript & TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Frontend/Backend", "ES6+", "Programación Asíncrona"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Maquetación Web", "Semántica", "Accesibilidad", "W3C Standards"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Diseño Responsivo", "Flexbox", "Grid", "Sass", "Animaciones"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermedio",
+      "keywords": [
+        "Backend", "API REST", "JavaScript en el Servidor", "npm"
+      ]
+    },
+    {
+      "name": "Bases de Datos SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "MySQL", "PostgreSQL", "SQLite", "Modelado de Datos", "Consultas"
+      ]
+    },
+    {
+      "name": "Git & GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Flujo de Trabajo Git", "Colaboración de Código", "Pull Requests"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermedio",
+      "keywords": [
+        "CI/CD", "Jenkins", "Linux", "Apache", "Nginx", "Virtualización"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Intermedio",
+      "keywords": [
+        "Framework de Python", "Backend", "Arquitectura MVT", "Desarrollo Web"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado"
+    }
+  ],
+  "projects": [
   {
-    "name": "Ministerio de Economia y Finanzas (M.E.F)",
-    "position": "Desarrolador Front-End",
-    "position2": "Aplicacion Web CONAJZAR",
-    "url": "https://www.mef.gov.py/",
-    "startDate": "2024-01-02",
-    "endDate": null,
-    "summary": "Desarrollo y mejora de aplicacion web en Angular,Html,CSS,JavaScript. Tecnologia de Control de Versiones como Git, GitHub, GitLab. Diseño de componentes dinámicos y responsivos. Integracion de servicios RESTful para facilitar la comunicación entre frontend y backend. CI/CD Integración y despliegue continuos utlizando Jenkins. Compromiso con una experiencia de usuario óptima.",
-    "highlights": [
-      "Started the company"
-    ]
-  },
-  {
-    "name": "Secretaria Tecnica de Planificacion (S.T.P)",
-    "position": "Administrador de Infraestructura",
-    "url": "https://www.stp.gov.py/v1/",
-    "startDate": "2017-01-08",
-    "endDate": "2023-12-30",
-    "summary": "Administracion plataforma de virtualización (Proxmox Virtual Enviroment). Administracion de Servidores Linux(Centos, Ubuntu, Red Hat, etc). Configuracion y Puesta en Marcha de Servicios Web(Apache, Nginx, Wildfly,jboss). Administrador Firewall(pfsene, Sophos). Administrador de servidores de Correo(Zimbra,MsExchange). Adminsitracion de Servicios Web( Antivirus, Servidores de Dominio, Nextcloud, Office 365). Gestión y Monitoreo de Servidores. Integración continua, flujo de trabajo básico de CI/CD. Investigación e integración de nuevas tecnologías. Implementar aplicaciones (java, php, nodejs, RoR, js, python)",
-    "highlights": [
-      "Started the company"
-    ]
-  } 
-
-],
-"volunteer": [{
-  "organization": "Organization",
-  "position": "Volunteer",
-  "url": "https://organization.com/",
-  "startDate": "2012-01-01",
-  "endDate": "2013-01-01",
-  "summary": "Description…",
-  "highlights": [
-    "Awarded 'Volunteer of the Month'"
-  ]
-}],
-"education": [{
-  "institution": "Universidad Americana",
-  "url": "https://www.americana.edu.py/",
-  "area": "Lic en Informatica",
-  "studyType": "Bachelor",
-  "startDate": "2022-06-01",
-  "endDate": null,
-  "score": "4.0",
-  "courses": [
-    "DB1101 - Basic SQL"
-  ]
-}],
-"awards": [{
-  "title": "Award",
-  "date": "2014-11-01",
-  "awarder": "Company",
-  "summary": "There is no spoon."
-}],
-"certificates": [{
-  "name": "Certificate",
-  "date": "2021-11-07",
-  "issuer": "Company",
-  "url": "https://certificate.com"
-}],
-"publications": [{
-  "name": "Publication",
-  "publisher": "Company",
-  "releaseDate": "2014-10-01",
-  "url": "https://publication.com",
-  "summary": "Description…"
-}],
-"skills": [
-  {
-    "name": "Angular",
-    "level": "Avanzado",
-    "keywords": [
-      "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-    ]
-  },
-  {
-    "name": "HTML",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend"
-    ]
-  },
-  {
-    "name": "CSS",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend", "Diseño Responsive"
-    ]
-  },
-  {
-    "name": "JavaScript",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-    ]
-  },
-  {
-    "name": "TypeScript",
-    "level": "Avanzado",
-    "keywords": [
-      "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-    ]
-  },
-  {
-    "name": "Node",
-    "level": "Avanzado",
-    "keywords": [
-      "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-    ]
-  },
-  {
-    "name": "MySQL",
-    "level": "Avanzado",
-    "keywords": [
-      "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-    ]
-  },
-  {
-    "name": "Sqlite",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend"
-    ]
-  },
-  {
-    "name": "Postgres",
-    "level": "Master",
-    "keywords": [
-      "Desarrollo Web", "Frontend"
-    ]
-  },
-  {
-    "name": "Git",
-    "level": "Avanzado",
-    "keywords": [
-      "Control de Versiones", "Colaboración", "Código Fuente"
-    ]
-  },
-  {
-    "name": "GitHub",
-    "level": "Avanzado",
-    "keywords": [
-      "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-    ]
-  },
-  {
-    "name": "Django",
-    "level": "Avanzado",
-    "keywords": [
-      "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-    ]
-  }
-],
-"languages": [
-  {
-    "language": "Spanish",
-    "fluency": "Native speaker"
-  },
-  {
-    "language": "English",
-    "fluency": "Advanced"
-  }
-],
-"interests": [{
-  "name": "Wildlife",
-  "keywords": [
-    "Ferrets",
-    "Unicorns"
-  ]
-}],
-"references": [{
-  "name": "Jane Doe",
-  "reference": "Reference…"
-}],
-"projects": [
-  {
-    "name": "Portfolio Minimalista Astro",
+    "name": "Plataforma Interactiva de Museo (Frontend)",
     "isActive": true,
-    "description": "Realizado en Html, Css, TypeScript y Framework Astro. Consiste es que puedas cear tu Propio CV con un solo archivo JSON.",
+    "description": "Interfaz de usuario interactiva para un museo, desarrollada en Angular. Permite a los visitantes explorar exhibiciones, ver detalles de obras y acceder a contenido multimedia. La app se enfoca en un diseño responsivo y una experiencia de usuario fluida, consumiendo datos desde una API RESTful.",
     "highlights": [
-      "Astro",
-      "Html",
-      "CSS", 
-      "JavaScript",
-      "npm"
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "HTML5 & CSS (Sass)",
+      "API REST"
     ],
-    "url": "https://github.com/pablotpy/portfolioastro",
-    "github": "https://github.com/pablotpy/portfolioastro"
+    "url": "https://github.com/pablotpy/Crud-Museo-Economia-py",
+    "github": "https://github.com/pablotpy/Crud-Museo-Economia-py"
   },
   {
-    "name": "Formulario Sorteos en Django",
+    "name": "API para Gestión de Museo (Backend)",
     "isActive": true,
-    "description": "Formulario de Sorteo de Premios para una Empresa de vinos. Se utilizo el Framework Django, Html ,CSS, JavaScript Usando Logica de MVT de django, base de datos PotgrestSQL",
+    "description": "Backend y API RESTful desarrollada con Django y Django REST Framework para la aplicación del museo. Gestiona la base de datos de obras, colecciones y exhibiciones, e incluye un panel de administración para la gestión de contenido por parte de los curadores.",
     "highlights": [
       "Django",
-      "Html",
-      "CSS", 
-      "JavaScript",
-      "pip"
+      "Django REST Framework",
+      "Python",
+      "PostgreSQL",
+      "JWT (Autenticación)"
     ],
-    "url": "https://github.com/pablotpy/formularioLaLinda-django",
-    "github": "https://github.com/pablotpy/formularioLaLinda-django"
-  }  
-]
+    "url": "https://github.com/pablotpy/Crud-Museo-Economia-py-backend",
+    "github": "https://github.com/pablotpy/Crud-Museo-Economia-py-backend"
+  },
+    {
+      "name": "Portfolio Minimalista con Astro",
+      "isActive": true,
+      "description": "Portfolio personal desarrollado con Astro, TypeScript y CSS. Permite generar un CV profesional de forma dinámica a partir de un único archivo de configuración JSON, facilitando su mantenimiento y actualización.",
+      "highlights": [
+        "Astro", "TypeScript", "CSS", "JavaScript", "npm"
+      ],
+      "url": "https://github.com/pablotpy/portfolioastro",
+      "github": "https://github.com/pablotpy/portfolioastro"
+    },
+    {
+      "name": "Formulario de Sorteos en Django",
+      "isActive": true,
+      "description": "Aplicación web para la gestión de sorteos, construida con el framework Django. Implementa la arquitectura MVT (Modelo-Vista-Template), lógica de negocio en Python y una base de datos PostgreSQL para el almacenamiento de datos.",
+      "highlights": [
+        "Django", "Python", "PostgreSQL", "HTML", "CSS", "JavaScript"
+      ],
+      "url": "https://github.com/pablotpy/formularioLaLinda-django",
+      "github": "https://github.com/pablotpy/formularioLaLinda-django"
+    }
+  ]
 }
