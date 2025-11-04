@@ -32,9 +32,9 @@
       "name": "Ministerio de Economía y Finanzas (M.E.F)",
       "position": "Desarrollador Front-End",
       "url": "https://www.mef.gov.py/",
-      "startDate": "2023-01-02",
+      "startDate": "2020-01-02",
       "endDate": null,
-      "summary": "Responsable del desarrollo y mantenimiento evolutivo de aplicaciones web críticas utilizando Angular, HTML, CSS y JavaScript. Mi enfoque se centra en la creación de interfaces de usuario modernas y eficientes, garantizando la calidad y la coherencia del código a través de sistemas de control de versiones como Git y GitLab.",
+      "summary": "Responsable del desarrollo y mantenimiento evolutivo de aplicaciones web utilizando Angular, HTML, CSS y JavaScript en FrontEnd y Backend con Python y Django. Mi enfoque se centra en la creación de interfaces de usuario modernas y eficientes, garantizando la calidad y la coherencia del código a través de sistemas de control de versiones como Git y GitLab.",
       "highlights": [
         "Desarrollo de componentes dinámicos y responsivos en Angular.",
         "Integración de servicios RESTful para una comunicación fluida entre el frontend y el backend.",
@@ -47,7 +47,7 @@
       "position": "Administrador de Infraestructura",
       "url": "https://www.stp.gov.py/v1/",
       "startDate": "2017-01-08",
-      "endDate": "2023-12-30",
+      "endDate": "2020-12-30",
       "summary": "Gestioné y mantuve la infraestructura tecnológica crítica de la institución, asegurando la disponibilidad, rendimiento y seguridad de los servicios. Lideré la administración de plataformas de virtualización y servidores Linux, y fui responsable de la configuración y despliegue de una amplia gama de aplicaciones y servicios web.",
       "highlights": [
         "Administración avanzada de la plataforma de virtualización Proxmox VE.",
